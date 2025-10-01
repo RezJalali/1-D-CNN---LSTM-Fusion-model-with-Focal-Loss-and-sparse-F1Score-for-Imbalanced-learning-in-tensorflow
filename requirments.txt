@@ -1,0 +1,5 @@
+tensorflow
+numpy
+tensorflow.keras
+keras_tuner
+datetime
